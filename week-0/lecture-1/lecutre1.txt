@@ -1,0 +1,28 @@
+Binary digit - origin for the bit, which is a 0 and 1 
+-largest value you can have in a bit is 255 and lowest is 0
+
+-Computers have transistors that turn on and off, that keep track of 0's and 1's 
+-If your computer wants to represent a one it turns on the transistor if it wants 
+to represent a 0 then it is turned off 
+
+-Base-2 aka binary 
+-Base-10 aka decimal 
+
+-Bytes are more useful than bits, there are 8 bits in one byte
+-All letters are mapped to a decimal number, both lower case and uppercase 
+-This was agreed upon a group of people, called Asci 
+-When you open a text message it is 0's and 1's, patterns of 0's and 1's translated 
+as letters from your phone
+-A sequence of bytes that are translated so that we can understand 
+
+-Problem with Asci is that it doesn't represent other cultures symbols/alphabets
+-Example with emojis are a new character not thought about 
+-So how do we represent these now? Add another digit, add more bytes 
+-Solution to limitation of Asci is unicode
+-Unicode goal is to capture digitally all forms of human language
+
+-Each pixel on a screen is 3 bits, to represent the color, RGB
+
+-Abstraction, not worrying about what is happening behind the scenes
+-Implementation details, the instructions/details to solve an algorithm
+-
