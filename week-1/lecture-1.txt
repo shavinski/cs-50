@@ -1,0 +1,20 @@
+Creating a C file 
+You must include #include <stdio.h> at top 
+Called a "header file"
+Are libraries to allow you to do certain things, informs the compiler to use 
+functionality from a certain library  
+
+Manual Pages
+Text based documentation 
+manual.cs50.io
+
+Before running C code you must compile it
+
+To do this you will
+1. type make "name_file"
+2. then run file using "./name_file"
+
+Escape sequence which is a special character like \n 
+Helps with user convenience to start cursor on a new line 
+
+
