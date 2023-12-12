@@ -1,10 +1,12 @@
-// #include <cs50.h>
 #include <stdio.h>
+#include <cs50.h>
+
 
 int main(void)
 {
-    printf("I got a 100%%\n");
-    return 0;
+    string name = get_string("What's your name? ");
+    string last = get_string("What's your last name? ");
+    printf("hello, %s %s\n", name, last);
 }
 
 
