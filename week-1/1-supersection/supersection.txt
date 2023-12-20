@@ -1,0 +1,2 @@
+1. Why does C care about data types?
+    
