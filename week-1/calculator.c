@@ -7,5 +7,5 @@ long main(void)
     long y = get_long("y: ");
 
     double z = (double) x / (double) y;
-    printf("%.20f\n", z);
+    printf("%.20f \n", z);
 }
