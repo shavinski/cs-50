@@ -1,5 +1,5 @@
-#include <stdio.h>
-#include <cs50.h>
+#include <stdio.h>;
+#include <cs50.h>;
 
 // need to compile doing this: gcc hello.c -o hello -lcs50 
 
